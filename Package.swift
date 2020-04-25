@@ -22,8 +22,5 @@ let package = Package(
         .target(
             name: "Sync",
             dependencies: []),
-    ],
-    swift: [
-        .version("5.0")
     ]
 )
