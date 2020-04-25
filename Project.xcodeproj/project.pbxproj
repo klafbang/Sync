@@ -1066,6 +1066,7 @@
 		44E38B222005EEB2003E896B /* 422-one-to-one-insert-option-initial.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "422-one-to-one-insert-option-initial.json"; sourceTree = "<group>"; };
 		44F3DC06202ED3B600A42022 /* 476.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 476.json; sourceTree = "<group>"; };
 		44F3DC0B202ED40500A42022 /* 476.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = 476.xcdatamodel; sourceTree = "<group>"; };
+		4C7BF66D24545F9700EEF93E /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		5D289324203EB81800C8102C /* 482.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = 482.xcdatamodel; sourceTree = "<group>"; };
 		5D96F24E219AD98200F88770 /* 519.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = 519.xcdatamodel; sourceTree = "<group>"; };
 		5D96F250219ADAFB00F88770 /* 519.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 519.json; sourceTree = "<group>"; };
@@ -1178,6 +1179,7 @@
 		146D728A1AB782920058798C = {
 			isa = PBXGroup;
 			children = (
+				4C7BF66D24545F9700EEF93E /* Package.swift */,
 				1425D59A1CC65BEB00EC49D4 /* Source */,
 				14C136501AB7849300B7B07A /* Metadata */,
 				146D72AF1AB782920058798C /* Tests */,
